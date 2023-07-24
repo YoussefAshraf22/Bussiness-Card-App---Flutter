@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "bussiness_card_app",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "bussiness_card_app (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "bussiness_card_app (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "Flutter (Edge)",
+      "program": "lib/main.dart",
+      "deviceId": "edge",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
